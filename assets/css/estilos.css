@@ -2,6 +2,15 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.foto{
+  width: 60px;
+  border-radius: 50%;  
+}
+
+.foto:hover{
+  width: 150px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -20,6 +29,9 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos {
+  background-color: #F1C9FF;
+}
 /* Contacto */
 
 #Contacto form label {
